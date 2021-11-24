@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "dad_gamer:items/wicked_sword_red"
+  }
+}
